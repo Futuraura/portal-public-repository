@@ -24,3 +24,4 @@ A modern, fully configurable Minecraft server website with real-time server stat
 3. Test with default configuration
 4. Check browser console for errors
 5. Verify all file paths and server settings
+6. If nothing works, open an issue on Github and I'll be sure to respond ASAP.
