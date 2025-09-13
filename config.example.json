@@ -1,0 +1,216 @@
+{
+  "general-info": {
+    "theme-color": "#2ecc71",
+    "name": "Epic Craft Server",
+    "page-title": "Epic Craft Server - Ultimate Minecraft Experience",
+    "description": "The ultimate Minecraft survival experience with custom features, friendly community, and regular events. Join thousands of players in our amazing world!",
+    "meta-tags": "minecraft,server,survival,multiplayer,gaming,community,epic,craft,adventure",
+    "author": "Epic Craft Team",
+    "language": "en"
+  },
+  "seo": {
+    "title": "Epic Craft Server - Best Minecraft Survival Server | Join Now",
+    "description": "Join Epic Craft Server - the ultimate Minecraft survival experience! Active community, custom features, regular events, and friendly players. Copy IP and start your adventure today!",
+    "keywords": "Minecraft, server, survival, multiplayer, gaming, community, custom features, events, adventure, Epic Craft",
+    "author": "Epic Craft Team",
+    "robots": "index, follow",
+    "language": "en",
+    "canonical_url": "https://epiccraft.example.com"
+  },
+  "open-graph": {
+    "title": "Epic Craft Server - Best Minecraft Survival Server",
+    "description": "Join Epic Craft Server - the ultimate Minecraft survival experience! Active community, custom features, and regular events.",
+    "type": "website",
+    "url": "https://epiccraft.example.com",
+    "image": "https://epiccraft.example.com/img/title.png",
+    "site_name": "Epic Craft Server",
+    "locale": "en_US"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Epic Craft Server - Best Minecraft Survival Server",
+    "description": "Join Epic Craft Server - the ultimate Minecraft survival experience! Active community, custom features, and regular events.",
+    "image": "https://epiccraft.example.com/img/title.png",
+    "site": "@EpicCraftServer"
+  },
+  "favicons": {
+    "favicon": "/favicon.ico",
+    "apple-touch-icon": "/apple-touch-icon.png",
+    "favicon-32x32": "/favicon-32x32.png",
+    "favicon-16x16": "/favicon-16x16.png",
+    "manifest": "/site.webmanifest"
+  },
+  "minecraft-widget": {
+    "ip": "play.epiccraft.example.com",
+    "enable-widget": true,
+    "enable-tracking": true
+  },
+  "discord-widget": {
+    "invite-link": "https://discord.gg/epiccraft",
+    "server-id": "123456789012345678",
+    "enable-widget": true,
+    "enable-tracking": true
+  },
+  "navbar": {
+    "enable-navbar": true,
+    "items": [
+      {
+        "text": "Home",
+        "link": "#"
+      },
+      {
+        "text": "Store",
+        "link": "https://store.epiccraft.example.com"
+      },
+      {
+        "text": "Rules",
+        "link": "/rules"
+      },
+      {
+        "text": "Vote",
+        "link": "/vote"
+      },
+      {
+        "text": "Forums",
+        "link": "https://forums.epiccraft.example.com"
+      }
+    ]
+  },
+  "images": {
+    "logo": "img/title.png",
+    "background": "img/bg.jpg",
+    "favicon": "img/minecraft.svg",
+    "discord-logo": "img/discord.svg",
+    "minecraft-logo": "img/minecraft.svg",
+    "facebook-logo": "img/facebook.svg",
+    "instagram-logo": "img/instagram.svg",
+    "tiktok-logo": "img/tiktok.svg",
+    "twitter-logo": "img/twitter.svg",
+    "telegram-logo": "img/telegram.svg"
+  },
+  "social-media-links": {
+    "enable-social-links": true,
+    "links": {
+      "discord": {
+        "icon": "discord-logo",
+        "link": "https://discord.gg/epiccraft"
+      },
+      "facebook": {
+        "icon": "facebook-logo",
+        "link": "https://facebook.com/epiccraftserver"
+      },
+      "instagram": {
+        "icon": "instagram-logo",
+        "link": "https://instagram.com/epiccraftserver"
+      },
+      "twitter": {
+        "icon": "twitter-logo",
+        "link": "https://twitter.com/epiccraftserver"
+      },
+      "tiktok": {
+        "icon": "tiktok-logo",
+        "link": "https://tiktok.com/@epiccraftserver"
+      }
+    }
+  },
+  "footer": {
+    "enable-footer": true,
+    "enable-logo": true,
+    "logo-text": "Epic Craft Server - Where legends are born! Join our thriving community of builders, adventurers, and friends. Experience the ultimate Minecraft survival with custom features, regular events, and an amazing community that welcomes players of all skill levels.",
+    "categories": [
+      {
+        "title": "Navigation",
+        "links": [
+          {
+            "text": "Home",
+            "link": "/"
+          },
+          {
+            "text": "Rules",
+            "link": "/rules"
+          },
+          {
+            "text": "Getting Started",
+            "link": "/guide"
+          },
+          {
+            "text": "Vote for Us",
+            "link": "/vote"
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          {
+            "text": "Discord Server",
+            "link": "https://discord.gg/epiccraft"
+          },
+          {
+            "text": "Forums",
+            "link": "https://forums.epiccraft.example.com"
+          },
+          {
+            "text": "Player Gallery",
+            "link": "/gallery"
+          },
+          {
+            "text": "Events",
+            "link": "/events"
+          }
+        ]
+      },
+      {
+        "title": "Server Info",
+        "links": [
+          {
+            "text": "Server Status",
+            "link": "/status"
+          },
+          {
+            "text": "Statistics",
+            "link": "/stats"
+          },
+          {
+            "text": "Leaderboards",
+            "link": "/leaderboards"
+          },
+          {
+            "text": "Dynmap",
+            "link": "https://map.epiccraft.example.com"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "text": "Store",
+            "link": "https://store.epiccraft.example.com"
+          },
+          {
+            "text": "Help Center",
+            "link": "/help"
+          },
+          {
+            "text": "Contact Us",
+            "link": "/contact"
+          },
+          {
+            "text": "Bug Reports",
+            "link": "/bugs"
+          }
+        ]
+      }
+    ]
+  },
+  "lang": {
+    "click-to-copy-ip": "Click to copy server IP",
+    "ip-copied": "Server IP copied to clipboard!",
+    "minecraft-people-online": "Currently ${minecraft-online} adventurers online",
+    "minecraft-server-offline": "Server is currently offline",
+    "join-discord": "Join our Epic Community",
+    "discord-people-online": "Currently ${discord-online} members online",
+    "copyright": "© 2025 ${general-info.name}. All rights reserved. | Made with ❤️ for our amazing community"
+  }
+}
